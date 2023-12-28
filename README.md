@@ -15,5 +15,5 @@
 - Micro Servo MG90 0:180 Degree
 
 ### Contributors
-- [Ibrahim2656](https://github.com/Ibrahim2656)
-- [y-emam](https://github.com/y-emam)
+- [Ibrahim Ahmed](https://github.com/Ibrahim2656)
+- [Yasser Emam](https://github.com/y-emam)
